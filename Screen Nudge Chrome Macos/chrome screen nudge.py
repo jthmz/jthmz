@@ -33,7 +33,7 @@ function LOGGING {
 appPath="/Applications/Google Chrome.app"
 appName="Google Chrome"
 appIcon="/Applications/Google Chrome.app/Contents/Resources/app.icns"
-dialogTitle="Nuna IT"
+dialogTitle="IT Team"
 dialogMessage="Please approve screen recording for $appName. So you can share your screen during meetings."
 # SwiftDialog Options
 swiftDialogOptions=(
